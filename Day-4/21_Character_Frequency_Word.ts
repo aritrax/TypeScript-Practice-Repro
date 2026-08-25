@@ -2,7 +2,7 @@
 // Input : "testing"
 // Output : {t:2,e:1,s:1,i:1,n:1,g:1}
 
-function characterFrequency(word : string)
+function characterFrequencyWord(word : string)
 {
     const letters = word.split("") ;
     let Frequency :any = {} ; 
@@ -20,4 +20,4 @@ function characterFrequency(word : string)
     }
     return (Frequency)
 }
-console.log(characterFrequency("testing")) ;
+console.log(characterFrequencyWord("testing")) ;

@@ -4,7 +4,7 @@
 
 function moveZero(numbers : number[])
 {
-    let number = 0 ;
+    //let number = 0 ;
     let numbers2 = []
 
     for(let i=0 ; i < numbers.length ; i++)

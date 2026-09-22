@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TypeScript Coding Practice for SDET Interviews 🚀
 
 A practical collection of **50 TypeScript coding problems** focused on the problem-solving patterns commonly used in **SDET / Test Automation interviews**.
@@ -154,7 +153,3 @@ During this practice I focused on:
 **Completed — 50/50 ✅**
 
 Built as part of my ongoing preparation for **SDET / QA Automation Engineer interviews**.
-=======
-# TypeScript-Practice-Repro
-TypeScript practice for SDET and Playwright automation interviews.
->>>>>>> 1c20137 (ReadMe)
